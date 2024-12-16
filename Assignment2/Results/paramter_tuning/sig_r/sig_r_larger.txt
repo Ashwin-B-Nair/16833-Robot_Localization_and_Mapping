@@ -1,0 +1,40 @@
+Landmark 1:
+  Euclidean distance: 0.0104
+  Mahalanobis distance: 0.0499
+Landmark 2:
+  Euclidean distance: 0.0085
+  Mahalanobis distance: 0.4123
+Landmark 3:
+  Euclidean distance: 0.0091
+  Mahalanobis distance: 0.0566
+Landmark 4:
+  Euclidean distance: 0.0089
+  Mahalanobis distance: 0.0393
+Landmark 5:
+  Euclidean distance: 0.0148
+  Mahalanobis distance: 0.4629
+Landmark 6:
+  Euclidean distance: 0.0115
+  Mahalanobis distance: 0.1407
+Landmark 1 is inside its 3-sigma ellipse
+Landmark 2 is inside its 3-sigma ellipse
+Landmark 3 is inside its 3-sigma ellipse
+Landmark 4 is inside its 3-sigma ellipse
+Landmark 5 is inside its 3-sigma ellipse
+Landmark 6 is inside its 3-sigma ellipse
+Final landmark positions: [[ 2.99034651]
+ [ 6.00383346]
+ [ 3.00141707]
+ [12.00834924]
+ [ 6.99249346]
+ [ 8.00516873]
+ [ 6.99239153]
+ [14.00464416]
+ [11.00318655]
+ [ 6.01442045]
+ [10.99367054]
+ [12.00956228]]
+Final robot pose: [[-0.90261939]
+ [ 0.69879872]
+ [ 4.98574988]]
+Average landmark uncertainty: 0.8595560855213836
