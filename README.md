@@ -16,7 +16,7 @@ This repository contains my assignment work for the Robot Localization and Mappi
 3. **Assignment 3:** Linear and Nonlinear SLAM Solvers
 4. **Assignment 4:** Dense SLAM with Point-based Fusion
 
-Each folder contains the code, data, and report related to the respective assignment. Detailed instructions and explanations can be found in the README file within each assignment's folder.
+Each folder contains the code, data, and report related to the respective assignment. Detailed instructions and explanations can be found in the hwX_writeup.pdf file within each assignment's folder.
 
 ## Academic Integrity
 
